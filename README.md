@@ -7,9 +7,9 @@ Experienced in Arduino-based projects and familiar with Python, HTML, and CSS.
 
 ### ⚙️ Technologies & Tools
 
-| Microcontroller | Web & UI | Tools & Communication |
+| Electrical | Web & UI | Tools |
 |------------------|-----------|-------------------------|
-| <ul><li>Arduino</li><li>ESP32</li><li>Sensor & Actuator</li></ul> | <ul><li>HTML</li><li>CSS</li><li>TailwindCSS</li><li>Responsive UI</li></ul> | <ul><li>HTTP</li><li>MQTT</li><li>Arduino IDE</li><li>VSCode</li></ul> |
+| <ul><li>Arduino</li><li>ESP32</li><li>Sensor</li><li>Actuator</li></ul> | <ul><li>HTML</li><li>CSS</li></ul> | <ul><li>Arduino IDE</li><li>Fritzing</li><li>GitHub</li><li>VSCode</li></ul> |
 
 ---
 
