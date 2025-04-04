@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm </Muhammad Kholish>
 
-Electrical Engineering student with high curiosity in electronics. Always eager to learn new things, think critically, and grow fast.  
-Experienced in Arduino-based projects and familiar with Python, HTML, and CSS.
+Electrical Engineering student with high curiosity in electronics. Always eager to learn new things, think critically, and grow fast. Experienced in Arduino-based projects and familiar with Python, HTML, and CSS.
 
 ---
 
