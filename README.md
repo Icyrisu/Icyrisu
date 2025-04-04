@@ -1,29 +1,41 @@
-### 👋 Halo, aku Icyrisu!
+## 👋 Hello, I'm </Muhammad Kholish>
 
-🌱 Seorang mahasiswa Teknik Elektro yang suka bereksperimen dengan **Arduino**, **ESP32**, dan berbagai proyek **IoT**.  
-💡 Tertarik dengan pengembangan sistem otomatisasi, robotika, dan monitoring berbasis web.  
-🔭 Saat ini aku sedang mengerjakan proyek **smart home automation** dan **AGV line follower**.  
-📚 Sering belajar lewat dokumentasi, eksperimen langsung, dan sharing bareng komunitas.
-
-### ⚙️ Teknologi & Tools yang Digunakan
-- Arduino / ESP32
-- C / C++ / MicroPython
-- HTML / CSS / TailwindCSS
-- Firebase / MQTT / Web server (local)
-- Git & GitHub
-
-### 📌 Proyek Unggulan
-- [🌿 Smart Hydroponic System](https://github.com/Icyrisu/hydroponic-control)  
-- [🏠 Smart Home Web Control with MQTT](https://github.com/Icyrisu/smart-home-mqtt)
-- [🚗 AGV Line Follower](https://github.com/Icyrisu/agv-line-follower)
-
-### 📊 GitHub Stats
-![Icyrisu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icyrisu&show_icons=true&theme=radical)
-
-### ☕ Mari Terhubung
-📫 Email: [email@example.com]  
-📱 Instagram: [@icyrisu](https://instagram.com/icyrisu)
+Electrical Engineering student with high curiosity in electronics. Always eager to learn new things, think critically, and grow fast.  
+Experienced in Arduino-based projects and familiar with Python, HTML, and CSS.
 
 ---
 
-> *"Terus belajar, terus berkembang. Kegagalan adalah bagian dari proses."*
+### ⚙️ Technologies & Tools
+
+| Microcontroller | Web & UI | Tools & Communication |
+|------------------|-----------|-------------------------|
+| <ul><li>Arduino</li><li>ESP32</li><li>Sensor & Actuator</li></ul> | <ul><li>HTML</li><li>CSS</li><li>TailwindCSS</li><li>Responsive UI</li></ul> | <ul><li>HTTP</li><li>MQTT</li><li>Arduino IDE</li><li>VSCode</li></ul> |
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| **Smart Hydroponic** | Nutrient control system for hydroponics using ESP32 |
+| **Smart Home MQTT** | Smart home system with web interface & MQTT protocol |
+| **Line Follower** | Robot with IR Sensor to follow the black line and navigation |
+
+---
+
+### 📈 GitHub Stats
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyrisu&layout=compact&theme=radical) | ![Stats](https://github-readme-stats.vercel.app/api?username=Icyrisu&show_icons=true&theme=radical) |
+|---|---|
+
+---
+
+### ☕ Let's Connect
+
+| Email | Instagram |
+|-------|-----------|
+| kholish2511@gmail.com | [@ri.su___](https://instagram.com/ri.su___) |
+
+---
+
+> _"Keep learning, keep growing. Failure is part of the process."_ 🚀
