@@ -25,17 +25,4 @@ Experienced in Arduino-based projects and familiar with Python, HTML, and CSS.
 
 ### 📈 GitHub Stats
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyrisu&layout=compact&theme=radical) | ![Stats](https://github-readme-stats.vercel.app/api?username=Icyrisu&show_icons=true&theme=radical) |
-|---|---|
-
----
-
-### ☕ Let's Connect
-
-| Email | Instagram |
-|-------|-----------|
-| kholish2511@gmail.com | [@ri.su___](https://instagram.com/ri.su___) |
-
----
-
-> _"Keep learning, keep growing. Failure is part of the process."_ 🚀
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyrisu&layout=compact&theme=radical)
